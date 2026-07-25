@@ -1,0 +1,11 @@
+.git/
+.venv/
+flake.nix
+flake.lock
+preprocessing/__pycache__/
+preprocessing/.venv/
+data/archive.zip
+config/logs/
+gnn_features_parquet/
+graph_parquet/
+__pycache__/

@@ -1,0 +1,14 @@
+[project]
+name = "traffic-analytics"
+version = "0.1.0"
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "delta-spark==4.1.0",
+    "graphframes-py>=0.12.1",
+    "numpy<2",
+    "pandas>=2.2.3,<3",
+    "pyarrow>=25.0.0",
+    "pyspark==4.1.0",
+    "tables>=3.9.2,<3.10",
+    "torch>=2.13.0",
+]
